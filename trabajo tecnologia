@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <title>La musica</title>
+        <meta charset="utf-8">
+        <style>
+        #contenidos {
+            background-color:gray;
+            color:yellow;
+        }
+        h2 {
+            color:blue;
+        }
+        #v {
+            text-align:center;
+        }
+        p {
+            font-family:cursive;
+        }
+        #introduccion {
+        font-size:13px;}
+        
+        </style>
+    </head>
+    <body>
+       
+        
+        
+    
+        
+        <h1>Introduccion</h1>
+        
+        
+        <p id="introduccion">Soy Camilo Andres Jaramillo estudiante de 10b y hablare de que genera la musica en nosotros.</p>
+        <h2 id="contenidos">Contenidos:</h2>
+        <ol>
+            <li>¿Que genera la musica en las personas?
+            <li>Psicologia en la musica</li>
+            <li>¿Cómo influye la música en las personas?</li>
+            <li>El efecto positivo de la música</li>
+        </ol>
+        <h1>¿Que genera la musica en las personas?</h1>
+        <p>La música afecta al cuerpo humano de una manera muy sutil pero al mismo tiempo poderosa. 
+Un hecho muy establecido es que el <strong> cuerpo y la mente pueden ser controlados y alterados con música</strong>. Innumerables investigaciones científicas y estudios clínicos han comprobado de forma determinante los tremendos efectos de la música en la psicología y anatomía humana. Esta es usada para disminuir la presión sanguínea, tratar enfermedades mentales, depresión, síndrome de Down, insomnio, y mucho más.</p>
+<img src="https://images.app.goo.gl/7HeUERKvb7ZRxapx5"alt="imagen de una persona escuchando musica">
+<h2>Psicologia en la musica</h2>
+<p>El musicólogo Julious Potnay, ha descubierto que la música no solo puede cambiar el metabolismo, afectar la energía muscular, elevar o disminuir la presión sanguínea e influir en la digestión, sino también, sería capaz de hacer que todo esto se realice de una manera más eficiente, aún, superando en efectividad a cualquier otro estimulante que produciría los mismos efectos en nuestro cuerpo.<br>
+<br>A la <strong>pregunta de que si la música realmente afecta el cuerpo humano </strong>, modernas investigaciones confirman el hecho. 
+No existe prácticamente ninguna parte del cuerpo humano que no pueda ser afectada por la música. 
+El sistema nervioso auditivo es el más abundante y mayor distribuido a través de todo el cuerpo. Posee más conexiones nerviosas que cualquiera de los demás sentidos. Nuestra capacidad para oír notas musicales es asombrosa. Es así, el cuerpo, un enorme receptáculo de ondas sonoras, una perfecta y armoniosa maquina musical, capaz de asimilar la música y ser por ella afectada, tanto negativa como positivamente. 
+</p>
+<img src="https://images.app.goo.gl/dXRZmUGwLvGcjEDVA"alt="imagen de un concierto">
+<h2>¿Cómo influye la música en las personas?</h2>
+<p>La música influye en las personas, sirviendo como estímulo de numerosas emociones y funciones orgánicas. Para que este efecto se dé, la música que se escuche debe cumplir ciertos requisitos:<em> que guste al oyente, que le emocione y que las circunstancias que se den, durante la escucha, sean las adecuadas.</em>
+<br>Afecta a la bioquímica del cuerpo, acelerando o ralentizando todas las funciones orgánicas. También actúa sobre nuestro sistema nervioso central pudiendo provocar efectos sedantes, estimulantes, deprimentes, alegres, etc.
+<br>La música facilita el proceso de aprendizaje porque activa un enorme número de <strong>neuronas</strong>. El contrapunto ayuda a desarrollar la <strong>inteligencia</strong> porque fuerza a seguir diversos razonamientos a la vez, las voces o melodías de la composición musical.</p>
+
+<h2>El efecto positivo de la música</h2>
+<p>Que las notas musicales “generen” energía no es un problema. El problema viene cuando esta energía no puede gastarse realizando actividad física. En ese sentido, la “música fuerte” es magnífica para situaciones que exijan conductas enérgicas o competitivas.<br></p>
+
+
+<img src="https://lamenteesmaravillosa.com/wp-content/uploads/2017/09/mujer-escuchando-musica-libre.jpg">
+<p><br>Asimismo, las notas musicales tienen la capacidad para relajarnos. Se logra con aquellos géneros que tienen ritmos más regulares, lentos y el volumen no es tan alto. Algunas piezas de música clásica, instrumental o pop suave contribuyen a tranquilizarnos. Se emplean incluso en salas donde se llevan a cabo radioterapias o tratamientos médicos agresivos.<br>
+
+<br>La ciencia ha podido establecer que los ritmos musicales estimulan diferentes áreas del cerebro. De hecho, una investigación de la Universidad de La Florida sugiere que los ritmos musicales ofrecen más activación cerebral que cualquier otro estímulo conocido. Dentro de los principales efectos positivos están los siguientes:</p>
+ <ul>
+            <li>Fortalece el aprendizaje y la memoria.</li>
+            <li>Regula las hormonas relacionadas con el estrés.</li>
+            <li>Permite evocar experiencias y recuerdos.</li>
+            <li>Incide sobre los latidos, la presión arterial y el pulso.</li>
+            <li>Modula la velocidad de las ondas cerebrales.</li>
+        </ul>
+        <h2 id="v">Canciones para</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Sentirse Feliz</th>
+                    <th>Sentirse Triste</th>
+                </tr>
+                <td>Don't stop me now -Queen.<br>
+Dancing Queen – ABBA.<br>
+Good Vibrations – Beach Boys.<br>
+Uptown girl – Billy Joel.<br>
+Eye of the tiger – Survivor.<br>
+</td>
+                <td><br>Radiohead - Creep.<br>
+Evanescence - My immortal.<br>
+La Oreja de Van Gogh - Jueves.<br>
+Coldplay - Fix You.<br>
+Wiz Khalifa - See You Again ft.<br>.</td>
+                
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <p><em>Influencia de la musica en las personas: <a href="https://lamenteesmaravillosa.com/influencia-la-musica-las-personas/">mas informacion.</a></em> </p>
+        </body>
+</html>
